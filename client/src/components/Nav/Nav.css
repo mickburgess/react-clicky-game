@@ -1,0 +1,11 @@
+nav.navbar {
+  margin-bottom: 0;
+  padding: 16px;
+  position: fixed;
+  width: 100%;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 2rem;
+}
